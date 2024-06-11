@@ -2,7 +2,7 @@ Bootstrap Link - https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 Thymeleaf link- http://www.thymeleaf.org
 
-------------Overview of this project------------------------------------------
+------------Overview of this project------------------------------------------  
 Project Name- Employee Directory using Thymeleaf  |  Spring Boot, Thymeleaf, CSS, HTML, and JavaScript.
 1. CRUD Operations: Users can Create, Read, Update, and Delete employee records stored in a database.
 2. Thymeleaf Integration: The user interface is designed using Thymeleaf templates.
