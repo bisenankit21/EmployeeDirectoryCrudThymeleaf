@@ -1,8 +1,16 @@
 Bootstrap Link - https://getbootstrap.com/docs/5.3/getting-started/introduction/
 Thymeleaf link- http://www.thymeleaf.org
 
+------------Overview of this project------------------------------------------
+Project Name- Employee Directory using Thymeleaf  |  Spring Boot, Thymeleaf, CSS, HTML, and JavaScript.
+1. CRUD Operations: Users can Create, Read, Update, and Delete employee records stored in a database.
+2. Thymeleaf Integration: The user interface is designed using Thymeleaf templates.
+3. Form Handling: Thymeleaf forms are used for creating and updating employee information.
+4. Exception Handling: The project demonstrates how to handle exceptions that may occur during runtime.
+5. Database Configuration: It also covers setting up the database connection in the application.properties file.
 
------------Learning From this project--------------
+   
+-----------Learning From this project------------------------------
 1. Thymeleaf has special expression for binding spring MVC Form Data
 2. Automaticaly setting and retrieving data from the given data object
 3. th:action =location to send form data
